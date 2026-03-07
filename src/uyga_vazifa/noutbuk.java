@@ -1,4 +1,4 @@
-package Uyga_vazifa;
+package uyga_vazifa;
 
 public class noutbuk {
     public static void main(String[] args) {
