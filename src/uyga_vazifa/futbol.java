@@ -5,7 +5,7 @@ public class futbol {
     private String club;
     private int age;
 
-    public String getLiga() {
+    public String getLiga01() {
         return liga;
     }
 

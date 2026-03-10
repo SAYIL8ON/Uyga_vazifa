@@ -8,7 +8,7 @@ public class futbol_01 {
         gol.setAge(1989);
 
         System.out.println("Futbol ligasi: " + gol.getLiga());
-        System.out.println("Futbol clubi: " + gol.getClub());
+        System.out.println("Futbol club: " + gol.getClub());
         System.out.println("Club tashkil topgan yil: " + gol.getAge());
     }
 }
