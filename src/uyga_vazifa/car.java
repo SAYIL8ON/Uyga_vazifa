@@ -2,7 +2,7 @@ package uyga_vazifa;
 
 public class car {
     private String model;
-    private int age;
+    private int age1;
     private String maxspeed;
 
     public String getModel() {
