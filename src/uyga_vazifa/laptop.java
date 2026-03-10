@@ -9,12 +9,12 @@ public class laptop {
         return brand;
     }
 
-    public void setBrand00(String brand) {
+    public void setBrand(String brand) {
         this.brand = brand.substring(0,1).toUpperCase() + brand.substring(1);
     }
 
     public String getRam() {
-        return ram90;
+        return ram;
     }
 
     public void setRam(String ram) {
