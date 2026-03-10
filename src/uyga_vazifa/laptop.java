@@ -1,7 +1,7 @@
 package uyga_vazifa;
 
 public class laptop {
-    private String brand;
+    private String brand01;
     private String ram;
     private String price;
 
