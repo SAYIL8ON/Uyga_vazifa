@@ -4,7 +4,7 @@ public class noutbuk {
     public static void main(String[] args) {
         laptop win = new laptop();
         win.setBrand("lenova");
-        win.setRam("8GB");
+        win.setRam("16GB");
         win.setPrice("350💸");
 
         System.out.println("Noutbuk modeli: " + win.getBrand());
