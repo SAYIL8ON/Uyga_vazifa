@@ -6,7 +6,7 @@ public class car {
     private String maxspeed;
 
     public String getModel() {
-        return mode;
+        return model;
     }
 
     public void setModel(String model) {
